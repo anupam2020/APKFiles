@@ -30,7 +30,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 * Circle ImageView
 * Dynamic Toast
 
-![InsTube_merged_bg](https://user-images.githubusercontent.com/63058877/148568998-53fc5079-8575-4fd3-9e5f-ca077644ca64.jpg)
+![Instube_merged_bg](https://user-images.githubusercontent.com/63058877/148574788-8a90bf0e-f4d2-46ad-ab29-9df7aae08e3f.jpg)
 
 
 ## Love Calculator
