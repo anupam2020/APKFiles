@@ -4,7 +4,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 ## Covid19Tracker
 * Get latest COVID stats for all Country, English & Bengali News and all Country Weather report!
 
-### Libraries
+### Libraries:
 * Lottie Animations
 * Firebase
 * RapidAPI, WeatherAPI, OpenWeatherMap API
@@ -21,7 +21,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 * Download Instagram videos and Youtube videos/audios in one click with search in-app feature!
 
 
-### Libraries
+### Libraries:
 * Lottie Animations
 * RapidAPI
 * OkHttp
@@ -36,7 +36,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 ## Love Calculator
 * Get love % of you and your partner and chances of successful love relationship!
 
-### Libraries
+### Libraries:
 * Lottie Animations
 * Firebase
 * RapidAPI
@@ -51,7 +51,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 ## Notepad
 * Store data online with this beautifully designed notepad app!
 
-### Libraries
+### Libraries:
 * Lottie Animations
 * Firebase
 * StatusBarUtil
