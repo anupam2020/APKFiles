@@ -59,4 +59,5 @@ This Repo has all the ".apk" files that I created in Android Studio...
 * Circle ImageView
 * Dynamic Toast
 
-![Notepad_merged_bg](https://user-images.githubusercontent.com/63058877/148569367-62d4d739-8798-4d89-9a30-91f1c5b6fc83.jpg)
+![Notepad_merged_bg](https://user-images.githubusercontent.com/63058877/148631243-3cf28c21-bf2e-4287-acea-750721460eec.jpg)
+
