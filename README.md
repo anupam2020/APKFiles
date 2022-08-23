@@ -1,7 +1,7 @@
 # Description
 This Repo has all the ".apk" files that I created in Android Studio...
 
-## 1. Lets'Chat
+## 1. Let'sChat
 * A simple and secure chat app!
 
 ### Libraries :
