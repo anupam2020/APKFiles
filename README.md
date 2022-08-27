@@ -16,7 +16,7 @@ This Repo has all the ".apk" files that I created in Android Studio...
 * Zoomage
 
 ### App Link :
-https://github.com/anupam2020/APKFiles/blob/main/Let'sChat/app/apk/Let'sChat.apk
+https://play.google.com/store/apps/details?id=com.sbdev.letschat
 
 
 ![Let'sChat background](https://user-images.githubusercontent.com/63058877/186123732-6997d12f-85aa-46bb-961f-88313012f67d.png)
